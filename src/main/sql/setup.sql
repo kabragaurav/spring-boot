@@ -22,3 +22,5 @@ SHOW GRANTS FOR 'root'@'localhost';
 
 -- Verify existing tables (should be empty initially unless JPA has created them)
 SHOW TABLES;
+
+SELECT * from employee;
