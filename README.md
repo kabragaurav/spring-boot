@@ -3,7 +3,7 @@
 A simple application to expose CRUD APIs to do employee management using Spring Boot and MySQL.
 
 # Demo
-[Demo](./assets/SpringBootAppDemo.mov)
+[![](https://github.com/user-attachments/assets/49e97d7b-a9e1-492a-8e15-9dbe07c8627e)](https://youtu.be/5seQj5eu_lk?si=0dxeub4StaGVbrxj)
 
 
 # Setup
