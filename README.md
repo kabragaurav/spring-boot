@@ -1,9 +1,10 @@
-# Employee Management App Using Spring Boot & MySQL
+# Employee Management App Using Spring Boot, Postman & MySQL
 
 A simple application to expose CRUD APIs to do employee management using Spring Boot and MySQL.
 
-# Demo:
-![](./assets/SpringBootAppDemo.mov)
+# Demo
+[Demo](./assets/SpringBootAppDemo.mov)
+
 
 # Setup
 Clone this repo which was template from Spring Initializr.
