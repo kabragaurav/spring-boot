@@ -1,4 +1,4 @@
-/mvnw text eol=lf
+.gitattributes/mvnw text eol=lf
 *.cmd text eol=crlf
 mvnw filter=lfs diff=lfs merge=lfs -text
 src filter=lfs diff=lfs merge=lfs -text
@@ -10,4 +10,5 @@ JAVA_NOTES.md filter=lfs diff=lfs merge=lfs -text
 README.md filter=lfs diff=lfs merge=lfs -text
 SPRING_NOTES.md filter=lfs diff=lfs merge=lfs -text
 assets filter=lfs diff=lfs merge=lfs -text
+*.,ov filter=lfs diff=lfs merge=lfs -text
 *.mov filter=lfs diff=lfs merge=lfs -text
